@@ -28,8 +28,7 @@ With over 20 years of software engineering experience, I operate at the intersec
 More than just writing code, I build foundations. Here are the types of challenges I drive:
 
 *   **Enterprise MVP Delivery:** Technical leadership in the architecture and development of the *Omnia* project for Ambev, built from scratch and delivered in 5 months.
-*   **AI-Driven Platforms:** Design and implementation of complex architectures like *AgroConnect* (an AI-powered agricultural marketplace) and *AI Flix* (a smart catalog featuring Hybrid Semantic Search and physical Read/Write database segregation).
-*   **AI Governance:** Integrating LLMs into transactional enterprise systems using Structured Outputs, Circuit Breakers, and the Transactional Outbox pattern to ensure data consistency and mitigate hallucinations.
+*   **AI-Driven Platforms:** Design and implementation of complex architectures like *AgroConnect* (an AI-powered agricultural marketplace) and *Smart Movie Catalog* (a smart catalog featuring Hybrid Semantic Search and physical Read/Write database segregation).
 *   **AI Developer Tools & Integrations:** Developed custom extensions and applications for VS Code and Microsoft Teams. These tools leverage external LLMs (e.g., via Anthropic) to provide integrated capabilities for automated code analysis, detailed code reviews, and other productivity enhancements directly within the team's existing workflow.
 
 ## 🎯 Current Focus
